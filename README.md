@@ -16,3 +16,5 @@ Data comes in various format including texts. We as a human speak many languages
 In this experiment restaurant review is being analysed which are in ENGLISH natural language. They categories as Liked (Positive) symbolled as 0 and not Liked (Negative) symbolled as 1. Here total 1000 review taken under consideration out of which 800 used for training purpose and 200 used for testing. After training naive bias classifier on test data this model gives 73% accuracy.
 
 <code>__Confusion Matrix__</code>
+
+![Alt text](/img/Confusion_Matrix.png?raw=true "")
